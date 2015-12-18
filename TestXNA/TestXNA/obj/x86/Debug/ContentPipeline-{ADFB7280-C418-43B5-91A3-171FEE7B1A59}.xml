@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>6775664-beautiful-lake-wallpaper.jpg</Source>
+      <Name>6775664-beautiful-lake-wallpaper</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\bin\x86\Debug\Content\6775664-beautiful-lake-wallpaper.xnb</Output>
+      <Time>2015-12-15T08:30:50+05:30</Time>
+    </Item>
+    <Item>
+      <Source>post-138925-1233469168.jpg</Source>
+      <Name>post-138925-1233469168</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\bin\x86\Debug\Content\post-138925-1233469168.xnb</Output>
+      <Time>2015-12-15T08:30:50+05:30</Time>
+    </Item>
+    <Item>
+      <Source>coins.png</Source>
+      <Name>coins</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\bin\x86\Debug\Content\coins.xnb</Output>
+      <Time>2015-12-15T08:30:50+05:30</Time>
+    </Item>
+    <Item>
+      <Source>stone.png</Source>
+      <Name>stone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\bin\x86\Debug\Content\stone.xnb</Output>
+      <Time>2015-12-15T08:30:50+05:30</Time>
+    </Item>
+    <Item>
+      <Source>brick.png</Source>
+      <Name>brick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\bin\x86\Debug\Content\brick.xnb</Output>
+      <Time>2015-12-15T08:30:50+05:30</Time>
+    </Item>
+    <Item>
+      <Source>bullet.png</Source>
+      <Name>bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\bin\x86\Debug\Content\bullet.xnb</Output>
+      <Time>2015-12-15T08:30:50+05:30</Time>
+    </Item>
+    <Item>
+      <Source>life.png</Source>
+      <Name>life</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\bin\x86\Debug\Content\life.xnb</Output>
+      <Time>2015-12-15T08:30:50+05:30</Time>
+    </Item>
+    <Item>
+      <Source>water.png</Source>
+      <Name>water</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\bin\x86\Debug\Content\water.xnb</Output>
+      <Time>2015-12-15T08:30:50+05:30</Time>
+    </Item>
+    <Item>
+      <Source>background.jpg</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2015-12-17T21:16:59.2907796+05:30</Time>
+    </Item>
+    <Item>
+      <Source>tank_right.png</Source>
+      <Name>tank_right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\bin\x86\Debug\Content\tank_right.xnb</Output>
+      <Time>2015-12-15T08:30:50+05:30</Time>
+    </Item>
+    <Item>
+      <Source>tank_up.png</Source>
+      <Name>tank_up</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\bin\x86\Debug\Content\tank_up.xnb</Output>
+      <Time>2015-12-15T08:30:50+05:30</Time>
+    </Item>
+    <Item>
+      <Source>tank_down.png</Source>
+      <Name>tank_down</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\bin\x86\Debug\Content\tank_down.xnb</Output>
+      <Time>2015-12-15T08:30:50+05:30</Time>
+    </Item>
+    <Item>
+      <Source>tank_left.png</Source>
+      <Name>tank_left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\bin\x86\Debug\Content\tank_left.xnb</Output>
+      <Time>2015-12-15T08:30:50+05:30</Time>
+    </Item>
+    <Item>
+      <Source>blank.png</Source>
+      <Name>blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\bin\x86\Debug\Content\blank.xnb</Output>
+      <Time>2015-12-15T08:30:50+05:30</Time>
+    </Item>
+    <Item>
+      <Source>gamelogo.png</Source>
+      <Name>gamelogo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\bin\x86\Debug\Content\gamelogo.xnb</Output>
+      <Time>2012-05-29T18:11:22+05:30</Time>
+    </Item>
+    <Item>
+      <Source>enemy_down.jpg</Source>
+      <Name>enemy_down</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\bin\x86\Debug\Content\enemy_down.xnb</Output>
+      <Time>2015-12-15T08:30:50+05:30</Time>
+    </Item>
+    <Item>
+      <Source>enemy_left.jpg</Source>
+      <Name>enemy_left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\bin\x86\Debug\Content\enemy_left.xnb</Output>
+      <Time>2015-12-15T08:30:50+05:30</Time>
+    </Item>
+    <Item>
+      <Source>enemy_right.jpg</Source>
+      <Name>enemy_right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\bin\x86\Debug\Content\enemy_right.xnb</Output>
+      <Time>2015-12-15T08:30:50+05:30</Time>
+    </Item>
+    <Item>
+      <Source>enemy_up.jpg</Source>
+      <Name>enemy_up</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\bin\x86\Debug\Content\enemy_up.xnb</Output>
+      <Time>2015-12-15T08:30:50+05:30</Time>
+    </Item>
+    <Item>
+      <Source>profileicon.png</Source>
+      <Name>profileicon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\bin\x86\Debug\Content\profileicon.xnb</Output>
+      <Time>2015-12-15T08:30:50+05:30</Time>
+    </Item>
+    <Item>
+      <Source>textfont.spritefont</Source>
+      <Name>textfont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\bin\x86\Debug\Content\textfont.xnb</Output>
+      <Time>2015-12-15T08:30:50+05:30</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{ADFB7280-C418-43B5-91A3-171FEE7B1A59}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNAContent\</RootDirectory>
+      <LoggerRootDirectory>E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-11-13T12:14:44.1676799+05:30</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,98 @@
+c:\users\asus\documents\visual studio 2013\Projects\TestXNA\TestXNA\TestXNA\bin\x86\Debug\TestXNA.exe
+c:\users\asus\documents\visual studio 2013\Projects\TestXNA\TestXNA\TestXNA\bin\x86\Debug\TestXNA.pdb
+c:\users\asus\documents\visual studio 2013\Projects\TestXNA\TestXNA\TestXNA\obj\x86\Debug\TestXNA.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\TestXNA\TestXNA\TestXNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\asus\documents\visual studio 2013\Projects\TestXNA\TestXNA\TestXNA\obj\x86\Debug\TestXNA.exe
+c:\users\asus\documents\visual studio 2013\Projects\TestXNA\TestXNA\TestXNA\obj\x86\Debug\TestXNA.pdb
+c:\users\asus\documents\visual studio 2013\Projects\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Content\6775664-beautiful-lake-wallpaper.xnb
+C:\Users\H.P. Asela\Desktop\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Content\6775664-beautiful-lake-wallpaper.xnb
+C:\Users\H.P. Asela\Desktop\TestXNA\TestXNA\TestXNA\bin\x86\Debug\TestXNA.exe
+C:\Users\H.P. Asela\Desktop\TestXNA\TestXNA\TestXNA\bin\x86\Debug\TestXNA.pdb
+C:\Users\H.P. Asela\Desktop\TestXNA\TestXNA\TestXNA\obj\x86\Debug\TestXNA.csprojResolveAssemblyReference.cache
+C:\Users\H.P. Asela\Desktop\TestXNA\TestXNA\TestXNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\H.P. Asela\Desktop\TestXNA\TestXNA\TestXNA\obj\x86\Debug\TestXNA.exe
+C:\Users\H.P. Asela\Desktop\TestXNA\TestXNA\TestXNA\obj\x86\Debug\TestXNA.pdb
+C:\Users\H.P. Asela\Desktop\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Content\post-138925-1233469168.xnb
+C:\Users\H.P. Asela\Desktop\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Content\coins.xnb
+C:\Users\H.P. Asela\Desktop\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Content\stone.xnb
+C:\Users\H.P. Asela\Desktop\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Content\brick.xnb
+C:\Users\H.P. Asela\Desktop\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Content\bullet.xnb
+C:\Users\H.P. Asela\Desktop\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Content\life.xnb
+C:\Users\H.P. Asela\Desktop\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Content\water.xnb
+C:\Users\H.P. Asela\Desktop\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Content\enemy_down.xnb
+C:\Users\H.P. Asela\Desktop\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Content\enemy_left.xnb
+C:\Users\H.P. Asela\Desktop\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Content\background.xnb
+C:\Users\H.P. Asela\Desktop\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Content\tank_down.xnb
+C:\Users\H.P. Asela\Desktop\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Content\tank_left.xnb
+C:\Users\H.P. Asela\Desktop\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Content\tank_right.xnb
+C:\Users\H.P. Asela\Desktop\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Content\tank_up.xnb
+C:\Users\H.P. Asela\Desktop\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Content\blank.xnb
+C:\Users\H.P. Asela\Desktop\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Content\gamelogo.xnb
+C:\Users\Do\Documents\Git\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Content\6775664-beautiful-lake-wallpaper.xnb
+C:\Users\Do\Documents\Git\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Content\post-138925-1233469168.xnb
+C:\Users\Do\Documents\Git\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Content\coins.xnb
+C:\Users\Do\Documents\Git\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Content\stone.xnb
+C:\Users\Do\Documents\Git\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Content\brick.xnb
+C:\Users\Do\Documents\Git\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Do\Documents\Git\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Content\life.xnb
+C:\Users\Do\Documents\Git\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Content\water.xnb
+C:\Users\Do\Documents\Git\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Content\profileicon.xnb
+C:\Users\Do\Documents\Git\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Content\enemy_down.xnb
+C:\Users\Do\Documents\Git\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Content\enemy_left.xnb
+C:\Users\Do\Documents\Git\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Content\enemy_right.xnb
+C:\Users\Do\Documents\Git\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Content\enemy_up.xnb
+C:\Users\Do\Documents\Git\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Content\background.xnb
+C:\Users\Do\Documents\Git\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Content\tank_right.xnb
+C:\Users\Do\Documents\Git\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Content\tank_up.xnb
+C:\Users\Do\Documents\Git\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Content\tank_down.xnb
+C:\Users\Do\Documents\Git\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Content\tank_left.xnb
+C:\Users\Do\Documents\Git\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Content\blank.xnb
+C:\Users\Do\Documents\Git\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Content\gamelogo.xnb
+C:\Users\Do\Documents\Git\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Content\textfont.xnb
+C:\Users\Do\Documents\Git\TestXNA\TestXNA\TestXNA\bin\x86\Debug\TestXNA.exe
+C:\Users\Do\Documents\Git\TestXNA\TestXNA\TestXNA\bin\x86\Debug\TestXNA.pdb
+C:\Users\Do\Documents\Git\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Do\Documents\Git\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Do\Documents\Git\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Do\Documents\Git\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Do\Documents\Git\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Do\Documents\Git\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Do\Documents\Git\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Do\Documents\Git\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Do\Documents\Git\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Do\Documents\Git\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Do\Documents\Git\TestXNA\TestXNA\TestXNA\obj\x86\Debug\TestXNA.csprojResolveAssemblyReference.cache
+C:\Users\Do\Documents\Git\TestXNA\TestXNA\TestXNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Do\Documents\Git\TestXNA\TestXNA\TestXNA\obj\x86\Debug\TestXNA.exe
+C:\Users\Do\Documents\Git\TestXNA\TestXNA\TestXNA\obj\x86\Debug\TestXNA.pdb
+C:\Users\H.P. Asela\Desktop\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Content\enemy_right.xnb
+C:\Users\H.P. Asela\Desktop\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Content\enemy_up.xnb
+C:\Users\H.P. Asela\Desktop\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Content\profileicon.xnb
+C:\Users\H.P. Asela\Desktop\TestXNA\TestXNA\TestXNA\bin\x86\Debug\Content\textfont.xnb
+E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\bin\x86\Debug\Content\6775664-beautiful-lake-wallpaper.xnb
+E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\bin\x86\Debug\Content\post-138925-1233469168.xnb
+E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\bin\x86\Debug\Content\coins.xnb
+E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\bin\x86\Debug\Content\stone.xnb
+E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\bin\x86\Debug\Content\brick.xnb
+E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\bin\x86\Debug\Content\bullet.xnb
+E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\bin\x86\Debug\Content\life.xnb
+E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\bin\x86\Debug\Content\water.xnb
+E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\bin\x86\Debug\Content\background.xnb
+E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\bin\x86\Debug\Content\tank_right.xnb
+E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\bin\x86\Debug\Content\tank_up.xnb
+E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\bin\x86\Debug\Content\tank_down.xnb
+E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\bin\x86\Debug\Content\tank_left.xnb
+E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\bin\x86\Debug\Content\blank.xnb
+E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\bin\x86\Debug\Content\gamelogo.xnb
+E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\bin\x86\Debug\Content\enemy_down.xnb
+E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\bin\x86\Debug\Content\enemy_left.xnb
+E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\bin\x86\Debug\Content\enemy_right.xnb
+E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\bin\x86\Debug\Content\enemy_up.xnb
+E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\bin\x86\Debug\Content\profileicon.xnb
+E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\bin\x86\Debug\Content\textfont.xnb
+E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\bin\x86\Debug\TestXNA.exe
+E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\bin\x86\Debug\TestXNA.pdb
+E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\obj\x86\Debug\TestXNA.csprojResolveAssemblyReference.cache
+E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\obj\x86\Debug\TestXNA.exe
+E:\4th semester\Programming Challenge2\Tanks\new\TankXNA-master\TestXNA\TestXNA\obj\x86\Debug\TestXNA.pdb
